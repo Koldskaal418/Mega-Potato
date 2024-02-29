@@ -1,6 +1,7 @@
 package com.koldskaal.mega_potato;
 
 import com.koldskaal.mega_potato.core.init.ItemInit;
+import com.koldskaal.mega_potato.data.DataGenerators;
 import com.mojang.logging.LogUtils;
 import net.minecraft.client.Minecraft;
 import net.minecraft.core.registries.BuiltInRegistries;
@@ -42,7 +43,7 @@ public class MegaPotatoMod
     // Define mod id in a common place for everything to reference
     public static final String MODID = "mega_potato";
     // Directly reference a slf4j logger
-    private static final Logger LOGGER = LogUtils.getLogger();
+    public static final Logger LOGGER = LogUtils.getLogger();
     // Create a Deferred Register to hold Blocks which will all be registered under the "examplemod" namespace
     public static final DeferredRegister.Blocks BLOCKS = DeferredRegister.createBlocks(MODID);
     // Create a Deferred Register to hold Items which will all be registered under the "examplemod" namespace
@@ -85,6 +86,7 @@ public class MegaPotatoMod
     {
         // Register the commonSetup method for modloading
         modEventBus.addListener(this::commonSetup);
+        modEventBus.addListener(DataGenerators::gatherData);
 
         // Register the Deferred Register to the mod event bus so blocks get registered
         BLOCKS.register(modEventBus);
@@ -127,7 +129,7 @@ public class MegaPotatoMod
         if (event.getTabKey() == CreativeModeTabs.BUILDING_BLOCKS) {
             event.accept(EXAMPLE_BLOCK_ITEM);
             event.accept(TEST_BLOCK_ITEM);
-           // event.accept(BlockOfPotatoAshBlock.BLOCK_OF_POTATO_ASH_ITEM);
+            event.accept(ItemInit.BIG_POTATO_ITEM);
         }
     }
 

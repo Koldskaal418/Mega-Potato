@@ -7,6 +7,6 @@ import static com.koldskaal.mega_potato.MegaPotatoMod.*;
 
 public class ItemInit {
     public static final DeferredRegister.Items ITEMS = DeferredRegister.createItems(MODID);
-
     public static final DeferredItem<Item> TESTER_ITEM = ITEMS.register("tester_item",() -> new Item(new Item.Properties()));
+    public static final DeferredItem<Item> BIG_POTATO_ITEM = ITEMS.register("bigpotato",() -> new Item(new Item.Properties()));
 }
