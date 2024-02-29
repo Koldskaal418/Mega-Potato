@@ -30,6 +30,7 @@ import net.neoforged.neoforge.registries.DeferredHolder;
 import net.neoforged.neoforge.registries.DeferredItem;
 import net.neoforged.neoforge.registries.DeferredRegister;
 import org.slf4j.Logger;
+import com.koldskaal.mega_potato.MegaPotatoModRegistration;
 
 // The value here should match an entry in the META-INF/mods.toml file
 @Mod(MegaPotatoMod.MODID)
@@ -77,6 +78,8 @@ public class MegaPotatoMod
         ITEMS.register(modEventBus);
         // Register the Deferred Register to the mod event bus so tabs get registered
         CREATIVE_MODE_TABS.register(modEventBus);
+
+//        MegaPotatoModRegistration.BLOCKS.register(modEventBus);
 
         // Register ourselves for server and other game events we are interested in.
         // Note that this is necessary if and only if we want *this* class (ExampleMod) to respond directly to events.
