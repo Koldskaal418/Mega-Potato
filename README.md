@@ -1,3 +1,35 @@
-Testing
+![](https://i.imgur.com/wdx71ai.png)  
 
-[![forthebadge](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMTQiIGhlaWdodD0iMzUiIHZpZXdCb3g9IjAgMCAyMTQgMzUiPjxyZWN0IHdpZHRoPSIxMDAiIGhlaWdodD0iMzUiIGZpbGw9IiNmNWE2MjMiLz48cmVjdCB4PSIxMDAiIHdpZHRoPSIxMTQiIGhlaWdodD0iMzUiIGZpbGw9IiMwMDAwMDAiLz48dGV4dCB4PSI1MCIgeT0iMjEuNSIgZm9udC1zaXplPSIxMiIgZm9udC1mYW1pbHk9IidSb2JvdG8nLCBzYW5zLXNlcmlmIiBmaWxsPSIjZmZmZmZmIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBsZXR0ZXItc3BhY2luZz0iMiI+TUFERSBGT1I8L3RleHQ+PHRleHQgeD0iMTU3IiB5PSIyMS41IiBmb250LXNpemU9IjEyIiBmb250LWZhbWlseT0iJ01vbnRzZXJyYXQnLCBzYW5zLXNlcmlmIiBmaWxsPSIjRkZGRkZGIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXdlaWdodD0iOTAwIiBsZXR0ZXItc3BhY2luZz0iMiI+TkVPRk9SR0U8L3RleHQ+PC9zdmc+)](https://forthebadge.com)
+
+ 
+# Mega Potato
+
+### Once upon a time i asked a friend: "Do you have any ideas for a mod?" And he replied: "potato... **MEGA POTATO**."
+
+ 
+
+__**What This Mod Includes:**__
+
+- Bigger Potatoes - To Make The Mega Potato Shell
+
+- Smaller Potatoes - To Make The Mega Potato Core
+
+- Potato Hammer - To Hammer Potatoes...
+
+- Potato Squeezer - To Squeeze Potatoes...
+
+- **_Mega Potato_** - Its Super expensive, doesn't do much but... **ITS MEGA!**
+
+ 
+
+__**Modding Integrations**__
+
+> The mods are not currently integrated as they have not yet updated to Neoforge
+
+- [Create](https://www.curseforge.com/minecraft/mc-mods/create) - Use the potato cannon with even bigger potatoes
+- [Tips](https://www.curseforge.com/minecraft/mc-mods/tips) - Get useful(ish) tips about big potatoes
+- [Eating Animation](https://www.curseforge.com/minecraft/mc-mods/eating-animation-forge) - Yummy!
+
+ 
+
+This is the **NEOFORGE** version for fabric go [here](https://www.curseforge.com/minecraft/mc-mods/mega-potato-fabric "Fabric Page"), the Forge version has been discontinued.
