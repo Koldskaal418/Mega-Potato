@@ -1,0 +1,32 @@
+{
+  "display": {
+    "icon": {
+      "item": "mega_potato:megapotato"
+    },
+    "title": {
+      "translate": "advancements.megapotato.title"
+    },
+    "description": {
+      "translate": "advancements.megapotato.desc"
+    },
+    "frame": "challenge"
+  },
+  "parent" : "mega_potato:potatocore",
+  "criteria": {
+    "megapotatostart_criteria": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "mega_potato:megapotato"
+            ],
+            "count": {
+              "min": 1
+            }
+          }
+        ]
+      }
+    }
+  }
+}

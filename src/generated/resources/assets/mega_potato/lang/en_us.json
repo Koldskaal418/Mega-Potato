@@ -1,5 +1,20 @@
 {
-  "block.mega_potato.block_of_potato_ash": "Block of Potato Ash",
+  "block.mega_potato.blockofpotatoash": "Block of Potato Ash",
+  "creativetab.mega_potato.megapotato": "Mega Potato",
+  "item.mega_potato.bigbakedpotato": "Big Baked Potato",
   "item.mega_potato.bigpotato": "Big Potato",
-  "item.mega_potato.tester_item": "Tester Item"
+  "item.mega_potato.fatpotato": "Fat Potato",
+  "item.mega_potato.flatpotato": "Flat Potato",
+  "item.mega_potato.hammeredpotato": "Hammered Potato",
+  "item.mega_potato.massivepotato": "Massive Potato",
+  "item.mega_potato.megapotato": "Mega Potato",
+  "item.mega_potato.potatoash": "Potato Ash",
+  "item.mega_potato.potatocore": "Potato Core",
+  "item.mega_potato.potatodust": "Potato Dust",
+  "item.mega_potato.potatohammer": "Potato Hammer",
+  "item.mega_potato.potatoshell": "Potato Shell",
+  "item.mega_potato.potatosqueezer": "Potato Squeezer",
+  "item.mega_potato.skinnypotato": "Skinny Potato",
+  "item.mega_potato.stretchedpotato": "Stretched Potato",
+  "item.mega_potato.tallpotato": "Tall Potato"
 }

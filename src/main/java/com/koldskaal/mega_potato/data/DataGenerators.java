@@ -18,7 +18,7 @@ public class DataGenerators {
             generator.addProvider(true, new ModItemStateProvider(output, existingFileHelper));
 
         } catch (RuntimeException e) {
-            MegaPotatoMod.LOGGER.error("Failed to generate data", e);
+            MegaPotatoMod.LOGGER.error("Failed to generate data for mega potato", e);
         }
     }
 }

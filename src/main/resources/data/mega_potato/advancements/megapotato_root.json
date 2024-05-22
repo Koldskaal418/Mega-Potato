@@ -1,0 +1,33 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:potato"
+    },
+    "title": {
+      "translate": "advancements.megapotato_root.title"
+    },
+    "description": {
+      "translate": "advancements.megapotato_root.desc"
+    },
+    "background": "mega_potato:textures/block/potatoashblock.png",
+    "show_toast": false,
+    "announce_to_chat": false
+  },
+  "criteria": {
+    "megapotatostart_criteria": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:potato"
+            ],
+            "count": {
+              "min": 1
+            }
+          }
+        ]
+      }
+    }
+  }
+}

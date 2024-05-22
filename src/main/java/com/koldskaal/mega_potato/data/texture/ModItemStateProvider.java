@@ -15,8 +15,22 @@ public class ModItemStateProvider extends ItemModelProvider {
 
     @Override
     protected void registerModels() {
-        item(ItemInit.TESTER_ITEM.get());
         item(ItemInit.BIG_POTATO_ITEM.get());
+        item(ItemInit.MASSIVE_POTATO_ITEM.get());
+        item(ItemInit.POTATO_HAMMER_ITEM.get());
+        item(ItemInit.POTATO_SQUEEZER_ITEM.get());
+        item(ItemInit.POTATO_DUST_ITEM.get());
+        item(ItemInit.POTATO_ASH_ITEM.get());
+        item(ItemInit.TALL_POTATO_ITEM.get());
+        item(ItemInit.SKINNY_POTATO_ITEM.get());
+        item(ItemInit.FLAT_POTATO_ITEM.get());
+        item(ItemInit.FAT_POTATO_ITEM.get());
+        item(ItemInit.STRETCHED_POTATO_ITEM.get());
+        item(ItemInit.HAMMERED_POTATO_ITEM.get());
+        item(ItemInit.POTATO_SHELL_ITEM.get());
+        item(ItemInit.POTATO_CORE_ITEM.get());
+        item(ItemInit.BIG_BAKED_POTATO_ITEM.get());
+        item(ItemInit.MEGA_POTATO_ITEM.get());
     }
    private void item(Item item) {
         String name = NameUtility.getItemName(item);

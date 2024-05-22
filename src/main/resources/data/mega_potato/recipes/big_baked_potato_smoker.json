@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smoking",
+  "category": "misc",
+  "experience": 0,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "mega_potato:bigpotato"
+  },
+  "result": "mega_potato:bigbakedpotato"
+}

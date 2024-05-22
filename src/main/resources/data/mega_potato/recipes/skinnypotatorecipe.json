@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "mega_potato:tallpotato"
+    },
+    "b": {
+      "item": "mega_potato:potatosqueezer"
+    }
+  },
+  "result": {
+    "item": "mega_potato:skinnypotato",
+    "count": 1
+  }
+}
