@@ -1,28 +1,35 @@
+![](https://i.imgur.com/wdx71ai.png)  
 
-Installation information
-=======
 
-This template repository can be directly cloned to get you started with a new
-mod. Simply create a new repository cloned from this one, by following the
-instructions at [github](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template).
+ 
+# Mega Potato
 
-Once you have your clone, simply open the repository in the IDE of your choice. The usual recommendation for an IDE is either IntelliJ IDEA or Eclipse.
+### Once upon a time i asked a friend: "Do you have any ideas for a mod?" And he replied: "potato... **MEGA POTATO**."
 
-> **Note**: For Eclipse, use tasks in `Launch Group` instead of ones founds in `Java Application`. A preparation task must run before launching the game. NeoGradle uses launch groups to do these subsequently.
+ 
 
-If at any point you are missing libraries in your IDE, or you've run into problems you can
-run `gradlew --refresh-dependencies` to refresh the local cache. `gradlew clean` to reset everything 
-{this does not affect your code} and then start the process again.
+__**What This Mod Includes:**__
 
-Mapping Names:
-============
-By default, the MDK is configured to use the official mapping names from Mojang for methods and fields 
-in the Minecraft codebase. These names are covered by a specific license. All modders should be aware of this
-license, if you do not agree with it you can change your mapping names to other crowdsourced names in your 
-build.gradle. For the latest license text, refer to the mapping file itself, or the reference copy here:
-https://github.com/NeoForged/NeoForm/blob/main/Mojang.md
+- Bigger Potatoes - To Make The Mega Potato Shell
 
-Additional Resources: 
-==========
-Community Documentation: https://docs.neoforged.net/  
-NeoForged Discord: https://discord.neoforged.net/
+- Smaller Potatoes - To Make The Mega Potato Core
+
+- Potato Hammer - To Hammer Potatoes...
+
+- Potato Squeezer - To Squeeze Potatoes...
+
+- **_Mega Potato_** - Its Super expensive, doesn't do much but... **ITS MEGA!**
+
+ 
+
+__**Modding Integrations**__
+
+> The mods are not currently integrated as they have not yet updated to Neoforge
+
+- [Create](https://www.curseforge.com/minecraft/mc-mods/create) - Use the potato cannon with even bigger potatoes
+- [Tips](https://www.curseforge.com/minecraft/mc-mods/tips) - Get useful(ish) tips about big potatoes
+- [Eating Animation](https://www.curseforge.com/minecraft/mc-mods/eating-animation-forge) - Yummy!
+
+ 
+
+This is the **NEOFORGE** version for fabric go [here](https://www.curseforge.com/minecraft/mc-mods/mega-potato-fabric "Fabric Page"), the Forge version has been discontinued.
