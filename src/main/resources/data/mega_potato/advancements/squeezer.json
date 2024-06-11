@@ -1,7 +1,7 @@
 {
   "display": {
     "icon": {
-      "item": "mega_potato:potatosqueezer"
+      "item": "mega_potato:potato_squeezer"
     },
     "title": {
       "translate": "advancements.squeezer.title"
@@ -10,15 +10,15 @@
       "translate": "advancements.squeezer.desc"
     }
   },
-  "parent" : "mega_potato:massivepotato",
+  "parent" : "mega_potato:massive_potato",
   "criteria": {
-    "megapotatostart_criteria": {
+    "mega_potato_start_criteria": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
             "items": [
-              "mega_potato:potatosqueezer"
+              "mega_potato:potato_squeezer"
             ],
             "count": {
               "min": 1

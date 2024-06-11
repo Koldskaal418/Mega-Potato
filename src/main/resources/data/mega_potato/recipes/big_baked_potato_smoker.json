@@ -4,7 +4,7 @@
   "experience": 0,
   "cookingtime": 100,
   "ingredient": {
-    "item": "mega_potato:bigpotato"
+    "item": "mega_potato:big_potato"
   },
-  "result": "mega_potato:bigbakedpotato"
+  "result": "mega_potato:big_baked_potato"
 }

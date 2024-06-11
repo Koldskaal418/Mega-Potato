@@ -1,8 +1,8 @@
 {
-  "type": "minecraft:campfire_cooking",
+  "type": "minecraft:smelting",
   "category": "misc",
   "experience": 0,
-  "cookingtime": 600,
+  "cookingtime": 200,
   "ingredient": {
     "item": "mega_potato:big_potato"
   },

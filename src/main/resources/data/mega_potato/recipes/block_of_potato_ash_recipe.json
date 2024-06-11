@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "mega_potato:potato_ash"
+    }
+  },
+  "result": {
+    "item": "mega_potato:blockofpotato_ash",
+    "count": 1
+  }
+}

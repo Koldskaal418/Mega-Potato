@@ -1,7 +1,7 @@
 {
   "display": {
     "icon": {
-      "item": "mega_potato:potatohammer"
+      "item": "mega_potato:potato_hammer"
     },
     "title": {
       "translate": "advancements.hammer.title"
@@ -10,15 +10,15 @@
       "translate": "advancements.hammer.desc"
     }
   },
-  "parent" : "mega_potato:massivepotato",
+  "parent" : "mega_potato:massive_potato",
   "criteria": {
-    "megapotatostart_criteria": {
+    "mega_potato_start_criteria": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
             "items": [
-              "mega_potato:potatohammer"
+              "mega_potato:potato_hammer"
             ],
             "count": {
               "min": 1

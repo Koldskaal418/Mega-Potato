@@ -1,16 +1,16 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:potato"
+      "item": "mega_potato:skinny_potato"
     },
     "title": {
-      "translate": "advancements.potato.title"
+      "translate": "advancements.skinny_potato.title"
     },
     "description": {
-      "translate": "advancements.potato.desc"
+      "translate": "advancements.skinny_potato.desc"
     }
   },
-  "parent" : "mega_potato:mega_potato_root",
+  "parent" : "mega_potato:squeezer",
   "criteria": {
     "mega_potato_start_criteria": {
       "trigger": "minecraft:inventory_changed",
@@ -18,11 +18,8 @@
         "items": [
           {
             "items": [
-              "minecraft:potato"
-            ],
-            "count": {
-              "min": 1
-            }
+              "mega_potato:skinny_potato"
+            ]
           }
         ]
       }

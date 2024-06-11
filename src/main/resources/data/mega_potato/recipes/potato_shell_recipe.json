@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bcb",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:leather"
+    },
+    "b": {
+      "item": "minecraft:fern"
+    },
+    "c": {
+      "item": "mega_potato:stretched_potato"
+    }
+  },
+  "result": {
+    "item": "mega_potato:potato_shell",
+    "count": 1
+  }
+}

@@ -1,16 +1,17 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:potato"
+      "item": "mega_potato:big_baked_potato"
     },
     "title": {
-      "translate": "advancements.potato.title"
+      "translate": "advancements.big_baked_potato.title"
     },
     "description": {
-      "translate": "advancements.potato.desc"
-    }
+      "translate": "advancements.big_baked_potato.desc"
+    },
+    "frame": "goal"
   },
-  "parent" : "mega_potato:mega_potato_root",
+  "parent" : "mega_potato:big_potato",
   "criteria": {
     "mega_potato_start_criteria": {
       "trigger": "minecraft:inventory_changed",
@@ -18,7 +19,7 @@
         "items": [
           {
             "items": [
-              "minecraft:potato"
+              "mega_potato:big_baked_potato"
             ],
             "count": {
               "min": 1

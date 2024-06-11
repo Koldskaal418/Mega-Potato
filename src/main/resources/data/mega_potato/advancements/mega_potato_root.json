@@ -4,13 +4,15 @@
       "item": "minecraft:potato"
     },
     "title": {
-      "translate": "advancements.potato.title"
+      "translate": "advancements.mega_potato_root.title"
     },
     "description": {
-      "translate": "advancements.potato.desc"
-    }
+      "translate": "advancements.mega_potato_root.desc"
+    },
+    "background": "mega_potato:textures/block/potato_ash_block.png",
+    "show_toast": false,
+    "announce_to_chat": false
   },
-  "parent" : "mega_potato:mega_potato_root",
   "criteria": {
     "mega_potato_start_criteria": {
       "trigger": "minecraft:inventory_changed",

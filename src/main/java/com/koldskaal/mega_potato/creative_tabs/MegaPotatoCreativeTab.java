@@ -1,6 +1,6 @@
 package com.koldskaal.mega_potato.creative_tabs;
 
-import com.koldskaal.mega_potato.block.BlockOfPotatoAshBlock;
+import com.koldskaal.mega_potato.block.BlockOfPotatoAsh;
 import com.koldskaal.mega_potato.core.init.ItemInit;
 import net.minecraft.core.registries.Registries;
 import net.minecraft.network.chat.Component;
@@ -14,8 +14,7 @@ import static com.koldskaal.mega_potato.MegaPotatoMod.MODID;
 
 
 public class MegaPotatoCreativeTab {
-    //CREATIVE_MODE_TABS is a DeferredRegister<CreativeModeTab>
-    private static final String translateID = "creativetab." + MODID + ".megapotato";
+    private static final String translateID = "creativetab." + MODID + ".mega_potato";
     public static final DeferredRegister<CreativeModeTab> CREATIVE_MODE_TABS = DeferredRegister.create(Registries.CREATIVE_MODE_TAB, MODID);
     public static final Supplier<CreativeModeTab> MEGA_POTATO_TAB = CREATIVE_MODE_TABS.register("mega_potato", () -> CreativeModeTab.builder()
             //Set the title of the tab. Don't forget to add a translation!
@@ -40,7 +39,7 @@ public class MegaPotatoCreativeTab {
                 output.accept(ItemInit.BIG_BAKED_POTATO_ITEM.get());
                 output.accept(ItemInit.POTATO_DUST_ITEM.get());
                 output.accept(ItemInit.POTATO_ASH_ITEM.get());
-                output.accept(BlockOfPotatoAshBlock.BLOCK_OF_POTATO_ASH.get());
+                output.accept(BlockOfPotatoAsh.BLOCK_OF_POTATO_ASH.get());
             })
             .build()
     );

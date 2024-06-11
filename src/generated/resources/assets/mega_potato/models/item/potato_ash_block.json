@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:block/cube",
+  "render_type": "minecraft:solid",
+  "textures": {
+    "down": "mega_potato:block/potato_ash_block",
+    "east": "mega_potato:block/potato_ash_block",
+    "north": "mega_potato:block/potato_ash_block",
+    "particle": "mega_potato:block/potato_ash_block",
+    "south": "mega_potato:block/potato_ash_block",
+    "up": "mega_potato:block/potato_ash_block",
+    "west": "mega_potato:block/potato_ash_block"
+  }
+}

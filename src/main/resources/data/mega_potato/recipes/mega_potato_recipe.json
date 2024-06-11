@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cde",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "mega_potato:potato_shell"
+    },
+    "b": {
+      "item": "mega_potato:massive_potato"
+    },
+    "c": {
+      "item": "mega_potato:potato_hammer"
+    },
+    "d": {
+      "item": "mega_potato:potato_core"
+    },
+    "e": {
+      "item": "mega_potato:potato_squeezer"
+    }
+  },
+  "result": {
+    "item": "mega_potato:mega_potato",
+    "count": 1
+  }
+}

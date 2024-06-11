@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a a",
+    " b ",
+    " b "
+  ],
+  "key": {
+    "a": {
+      "item": "mega_potato:massive_potato"
+    },
+    "b": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "mega_potato:potato_squeezer",
+    "count": 1
+  }
+}
