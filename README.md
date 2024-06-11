@@ -4,7 +4,7 @@
  
 # Mega Potato
 
-### Once upon a time i asked a friend: "Do you have any ideas for a mod?" And he replied: "potato... **MEGA POTATO**."
+### Once upon a time I asked a friend: "Do you have any ideas for a mod?" And he replied: "potato... **MEGA POTATO**."
 
  
 
@@ -18,7 +18,7 @@ __**What This Mod Includes:**__
 
 - Potato Squeezer - To Squeeze Potatoes...
 
-- **_Mega Potato_** - Its Super expensive, doesn't do much but... **ITS MEGA!**
+- **_Mega Potato_** - Its Super expensive, doesn't do much but... **IT'S MEGA!**
 
  
 
