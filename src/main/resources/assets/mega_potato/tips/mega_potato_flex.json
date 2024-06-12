@@ -1,0 +1,9 @@
+{
+  "conditions": [{
+    "type": "forge:mod_loaded",
+    "modid": "mega_potato"
+  }],
+  "tip":{
+    "text": "The mega potato doesn't do anything, except being the greatest flex."
+  }
+}

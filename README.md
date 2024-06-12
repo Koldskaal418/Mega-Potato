@@ -10,15 +10,15 @@
 
 __**What This Mod Includes:**__
 
-- Bigger Potatoes - To Make The Mega Potato Shell
+- Bigger Potatoes - To make the mega potato shell
 
-- Smaller Potatoes - To Make The Mega Potato Core
+- Smaller Potatoes - To make the mega potato core
 
-- Potato Hammer - To Hammer Potatoes...
+- Potato Hammer - To hammer potatoes...
 
-- Potato Squeezer - To Squeeze Potatoes...
+- Potato Squeezer - To squeeze potatoes...
 
-- **_Mega Potato_** - Its Super expensive, doesn't do much but... **IT'S MEGA!**
+- **_Mega Potato_** - It's super expensive and doesn't do much but... **IT'S MEGA!**
 
  
 

@@ -1,0 +1,9 @@
+{
+  "conditions": [{
+    "type": "forge:mod_loaded",
+    "modid": "mega_potato"
+  }],
+  "tip":{
+    "text": "To make just 1 mega potato you need 164736 potatoes."
+  }
+}
