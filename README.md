@@ -24,10 +24,11 @@ __**What This Mod Includes:**__
 
 __**Modding Integrations**__
 
-> The mods are not currently integrated as they have not yet updated to Neoforge
-
-- [Create](https://www.curseforge.com/minecraft/mc-mods/create) - Use the potato cannon with even bigger potatoes
 - [Tips](https://www.curseforge.com/minecraft/mc-mods/tips) - Get useful(ish) tips about big potatoes
+- [Catalogue](https://www.curseforge.com/minecraft/mc-mods/catalogue) - Fancy!
+
+> The following mods are not currently integrated as they have not yet updated to Neoforge
+- [Create](https://www.curseforge.com/minecraft/mc-mods/create) - Use the potato cannon with even bigger potatoes
 - [Eating Animation](https://www.curseforge.com/minecraft/mc-mods/eating-animation-forge) - Yummy!
 
  
