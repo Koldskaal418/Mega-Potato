@@ -8,6 +8,7 @@ import net.minecraft.world.level.block.state.BlockBehaviour;
 import net.neoforged.neoforge.registries.DeferredBlock;
 import net.neoforged.neoforge.registries.DeferredItem;
 import net.neoforged.neoforge.registries.DeferredRegister;
+import org.jetbrains.annotations.NotNull;
 
 import static com.koldskaal.mega_potato.MegaPotatoMod.MODID;
 import static com.koldskaal.mega_potato.core.init.ItemInit.ITEMS;
@@ -17,7 +18,7 @@ public class BlockOfPotatoAsh extends FallingBlock {
     public static final DeferredRegister.Blocks BLOCKS = DeferredRegister.createBlocks(MODID);
     public static final MapCodec<BlockOfPotatoAsh> CODEC = simpleCodec(BlockOfPotatoAsh::new);
     @Override
-    protected MapCodec<? extends FallingBlock> codec() {
+    protected @NotNull MapCodec<? extends FallingBlock> codec() {
         return CODEC;
     }
     public BlockOfPotatoAsh(Properties pProperties) {
@@ -33,7 +34,7 @@ public class BlockOfPotatoAsh extends FallingBlock {
                     .sound(SoundType.GRAVEL)
             ) {
                 @Override
-                protected MapCodec<? extends FallingBlock> codec() {
+                protected @NotNull MapCodec<? extends FallingBlock> codec() {
                     return BlockOfPotatoAsh.CODEC;
                 }
             });

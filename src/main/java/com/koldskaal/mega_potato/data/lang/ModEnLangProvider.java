@@ -33,7 +33,7 @@ public class ModEnLangProvider extends LanguageProvider {
         addItem(ItemInit.MEGA_POTATO_ITEM, "Mega Potato");
         add(MegaPotatoCreativeTab.getTranslatableID(), "Mega Potato");
         add("advancements.mega_potato.title", "Mega!");
-        add("advancements.mega_potato.desc", "Accumulate all your Potato brain power to acquire the Ultimate Potato");
+        add("advancements.mega_potato.desc", "Accumulate all your Potato brain power to acquire the ultimate Potato");
         add("advancements.mega_potato_root.title", "Mega Potato");
         add("advancements.mega_potato_root.desc", "The biggest of Potatoes");
         add("advancements.potato.title", "The Start of Something Mega");
@@ -51,11 +51,11 @@ public class ModEnLangProvider extends LanguageProvider {
         add("advancements.potato_shell.title", "Flat As Paper");
         add("advancements.potato_shell.desc", "Stretch your Potatoes as much as you can to obtain the flattest of Potatoes");
         add("advancements.squeezer.title", "Squeezer");
-        add("advancements.squeezer.desc", "Craft a weird looking Potato tool");
+        add("advancements.squeezer.desc", "Craft a weird-looking Potato tool");
         add("advancements.skinny_potato.title", "Skinny Boi!");
         add("advancements.skinny_potato.desc", "Use your weird Potato tool to make the Potatoes lose weight");
         add("advancements.potato_core.title", "The Inner Potato");
-        add("advancements.potato_core.desc", "Craft the Purest of all Potatoes");
+        add("advancements.potato_core.desc", "Craft the purest of all Potatoes");
         add("advancements.potato_ash.title", "Burn!");
         add("advancements.potato_ash.desc", "Set flames to one of your larger Potatoes");
     }
