@@ -82,7 +82,7 @@ public class ItemInit {
             "big_baked_potato",
             Item::new,
             new Item.Properties().
-                    food(new FoodProperties.Builder().nutrition(15).saturationMod(0.5f).build())
+                    food(new FoodProperties.Builder().nutrition(15).saturationModifier(0.5f).build())
                     .stacksTo(32)
     );
     public static final DeferredItem<Item> MEGA_POTATO_ITEM = ITEMS.registerItem(
