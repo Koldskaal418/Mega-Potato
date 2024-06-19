@@ -1,7 +1,7 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:potato"
+      "id": "minecraft:potato"
     },
     "title": {
       "translate": "advancements.potato.title"
@@ -10,7 +10,7 @@
       "translate": "advancements.potato.desc"
     }
   },
-  "parent" : "mega_potato:mega_potato_root",
+  "parent": "mega_potato:mega_potato_root",
   "criteria": {
     "mega_potato_start_criteria": {
       "trigger": "minecraft:inventory_changed",

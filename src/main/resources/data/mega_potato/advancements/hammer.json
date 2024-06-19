@@ -1,7 +1,7 @@
 {
   "display": {
     "icon": {
-      "item": "mega_potato:potato_hammer"
+      "id": "mega_potato:potato_hammer"
     },
     "title": {
       "translate": "advancements.hammer.title"

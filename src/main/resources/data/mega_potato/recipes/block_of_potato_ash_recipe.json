@@ -12,7 +12,6 @@
     }
   },
   "result": {
-    "item": "mega_potato:potato_ash_block",
-    "count": 1
+    "id": "mega_potato:potato_ash_block"
   }
 }

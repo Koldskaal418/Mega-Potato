@@ -1,10 +1,11 @@
 {
   "type": "minecraft:campfire_cooking",
   "category": "misc",
-  "experience": 0,
   "cookingtime": 600,
   "ingredient": {
     "item": "mega_potato:big_potato"
   },
-  "result": "mega_potato:big_baked_potato"
+  "result": {
+    "id": "mega_potato:big_baked_potato"
+  }
 }

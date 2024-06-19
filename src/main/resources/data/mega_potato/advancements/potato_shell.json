@@ -1,7 +1,7 @@
 {
   "display": {
     "icon": {
-      "item": "mega_potato:potato_shell"
+      "id": "mega_potato:potato_shell"
     },
     "title": {
       "translate": "advancements.potato_shell.title"

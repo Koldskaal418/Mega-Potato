@@ -12,7 +12,6 @@
     }
   },
   "result": {
-    "item": "mega_potato:big_potato",
-    "count": 1
+    "id": "mega_potato:big_potato"
   }
 }

@@ -15,7 +15,6 @@
     }
   },
   "result": {
-    "item": "mega_potato:potato_squeezer",
-    "count": 1
+    "id": "mega_potato:potato_squeezer"
   }
 }

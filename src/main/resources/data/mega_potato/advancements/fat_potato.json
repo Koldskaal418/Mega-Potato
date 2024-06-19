@@ -1,7 +1,7 @@
 {
   "display": {
     "icon": {
-      "item": "mega_potato:fat_potato"
+      "id": "mega_potato:fat_potato"
     },
     "title": {
       "translate": "advancements.fat_potato.title"

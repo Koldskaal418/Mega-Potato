@@ -1,10 +1,12 @@
 {
   "type": "minecraft:smelting",
   "category": "misc",
-  "experience": 0,
+  "experience": 0.35,
   "cookingtime": 200,
   "ingredient": {
     "item": "mega_potato:potato_dust"
   },
-  "result": "mega_potato:potato_ash"
+  "result": {
+    "id": "mega_potato:potato_ash"
+  }
 }

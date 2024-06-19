@@ -15,7 +15,6 @@
     }
   },
   "result": {
-    "item": "mega_potato:flat_potato",
-    "count": 1
+    "id": "mega_potato:flat_potato"
   }
 }

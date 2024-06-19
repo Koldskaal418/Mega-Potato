@@ -1,7 +1,7 @@
 {
   "display": {
     "icon": {
-      "item": "mega_potato:potato_ash"
+      "id": "mega_potato:potato_ash"
     },
     "title": {
       "translate": "advancements.potato_ash.title"
@@ -11,7 +11,7 @@
     },
     "frame": "goal"
   },
-  "parent" : "mega_potato:massive_potato",
+  "parent": "mega_potato:massive_potato",
   "criteria": {
     "mega_potato_start_criteria": {
       "trigger": "minecraft:inventory_changed",

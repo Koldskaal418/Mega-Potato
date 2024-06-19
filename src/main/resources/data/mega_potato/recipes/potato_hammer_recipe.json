@@ -15,7 +15,6 @@
     }
   },
   "result": {
-    "item": "mega_potato:potato_hammer",
-    "count": 1
+    "id": "mega_potato:potato_hammer"
   }
 }

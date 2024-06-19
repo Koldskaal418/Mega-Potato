@@ -1,7 +1,7 @@
 {
   "display": {
     "icon": {
-      "item": "mega_potato:potato_squeezer"
+      "id": "mega_potato:potato_squeezer"
     },
     "title": {
       "translate": "advancements.squeezer.title"
