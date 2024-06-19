@@ -14,7 +14,7 @@ displayURL="https://github.com/Koldskaal418/Mega-Potato"
 logoFile="logo.png"
 authors="${mod_authors}"
 
-description='''Just Bigger Potatoes... that's it.'''
+description='''Just bigger potatoes... that's it.'''
 
 [modproperties.mega_potato]
 catalogueBackground="catalogue_background.png"
