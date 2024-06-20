@@ -17,11 +17,9 @@ public class MegaPotatoCreativeTab {
     private static final String translateID = "creativetab." + MODID + ".mega_potato";
     public static final DeferredRegister<CreativeModeTab> CREATIVE_MODE_TABS = DeferredRegister.create(Registries.CREATIVE_MODE_TAB, MODID);
     public static final Supplier<CreativeModeTab> MEGA_POTATO_TAB = CREATIVE_MODE_TABS.register("mega_potato", () -> CreativeModeTab.builder()
-            //Set the title of the tab. Don't forget to add a translation!
+            //Don't forget to add a translation!
             .title(Component.translatable(translateID))
-            //Set the icon of the tab.
             .icon(() -> new ItemStack(ItemInit.BIG_POTATO_ITEM.get()))
-            //Add your items to the tab.
             .displayItems((params, output) -> {
                 output.accept(ItemInit.POTATO_SQUEEZER_ITEM.get());
                 output.accept(ItemInit.POTATO_HAMMER_ITEM.get());

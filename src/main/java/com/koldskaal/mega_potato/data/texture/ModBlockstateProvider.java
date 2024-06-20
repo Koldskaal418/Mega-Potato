@@ -18,10 +18,7 @@ public class ModBlockstateProvider extends BlockStateProvider {
         block(BlockOfPotatoAsh.BLOCK_OF_POTATO_ASH.get());
     }
    private void block(Block block){
-        String name = NameUtility.getBlockName(block);
         simpleBlock(block);
-
-
    }
 
 
