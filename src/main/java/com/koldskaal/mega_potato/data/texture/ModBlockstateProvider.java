@@ -2,7 +2,6 @@ package com.koldskaal.mega_potato.data.texture;
 
 import com.koldskaal.mega_potato.MegaPotatoMod;
 import com.koldskaal.mega_potato.block.BlockOfPotatoAsh;
-import com.koldskaal.mega_potato.util.NameUtility;
 import net.minecraft.data.PackOutput;
 import net.minecraft.world.level.block.Block;
 import net.neoforged.neoforge.client.model.generators.BlockStateProvider;
