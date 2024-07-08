@@ -3,7 +3,7 @@ modLoader="javafml"
 loaderVersion="${loader_version_range}"
 license="${mod_license}"
 # A URL to refer people to when problems occur with this mod
-#issueTrackerURL="https://change.me.to.your.issue.tracker.example.invalid/"
+issueTrackerURL="https://github.com/Koldskaal418/Mega-Potato/issues"
 [[mods]]
 modId="${mod_id}"
 version="${mod_version}"

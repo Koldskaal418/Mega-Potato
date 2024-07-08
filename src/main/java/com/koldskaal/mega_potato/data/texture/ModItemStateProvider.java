@@ -5,7 +5,6 @@ import com.koldskaal.mega_potato.block.BlockOfPotatoAsh;
 import com.koldskaal.mega_potato.core.init.ItemInit;
 import com.koldskaal.mega_potato.util.NameUtility;
 import net.minecraft.data.PackOutput;
-import net.minecraft.resources.ResourceLocation;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.level.block.Block;
 import net.neoforged.neoforge.client.model.generators.ItemModelProvider;
@@ -29,12 +28,15 @@ public class ModItemStateProvider extends ItemModelProvider {
         item(ItemInit.STRETCHED_POTATO_ITEM.get());
         item(ItemInit.HAMMERED_POTATO_ITEM.get());
         block(BlockOfPotatoAsh.BLOCK_OF_POTATO_ASH.get());
+        /* Don't use eating animations for 1.20.6
         stringItem("big_baked_potato_eating_0");
         stringItem("big_baked_potato_eating_1");
         stringItem("big_baked_potato_eating_2");
         itemEatingAnimation(ItemInit.BIG_BAKED_POTATO_ITEM.get(), 0.35f, 1.0f, "eating_0");
         itemEatingAnimation(ItemInit.BIG_BAKED_POTATO_ITEM.get(), 0.7f, 1.0f, "eating_1");
         itemEatingAnimation(ItemInit.BIG_BAKED_POTATO_ITEM.get(), 0.9f, 1.0f, "eating_2");
+        item(ItemInit.BIG_BAKED_POTATO_ITEM.get());
+         */
 
         /*Manual Overrides
         item(ItemInit.MEGA_POTATO_ITEM.get());
@@ -50,12 +52,13 @@ public class ModItemStateProvider extends ItemModelProvider {
                 .parent(getExistingFile(mcLoc("item/generated")))
                 .texture("layer0", "item/" + name);
    }
-
+/* Only used for Eating Animations
    private void stringItem(String itemString){
         getBuilder(itemString)
                 .parent(getExistingFile(mcLoc("item/generated")))
                 .texture("layer0", "item/" + itemString);
    }
+
 
     private void itemEatingAnimation(Item item, float eat, float eating, String animationID) {
         String name = NameUtility.getItemName(item);
@@ -67,7 +70,7 @@ public class ModItemStateProvider extends ItemModelProvider {
                 .predicate(ResourceLocation.fromNamespaceAndPath("eatinganimation", "eating"), eating)
                 .model(getExistingFile(modLoc("item/" + name + "_" + animationID)));
     }
-
+*/
    private void block(Block block){
         String name = NameUtility.getBlockName(block);
         getBuilder(name)
