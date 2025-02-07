@@ -1,8 +1,6 @@
 ![](https://i.imgur.com/wdx71ai.png)  
 
-
- 
-# Mega Potato
+#
 
 ### Once upon a time I asked a friend: "Do you have any ideas for a mod?" And he replied: "potato... **MEGA POTATO**."
 
