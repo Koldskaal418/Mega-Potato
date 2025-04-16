@@ -2,7 +2,7 @@
 
 #
 
-### Once upon a time I asked a friend: "Do you have any ideas for a mod?" And he replied: "potato... **MEGA POTATO**."
+### Welcome to the github page of the mighty **[MEGA POTATO](https://modrinth.com/mod/mega-potato)** mod."
 
  
 
