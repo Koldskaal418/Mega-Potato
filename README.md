@@ -2,7 +2,7 @@
 
 #
 
-### Welcome to the github page of the mighty **[MEGA POTATO](https://modrinth.com/mod/mega-potato)** mod."
+### Welcome to the github page of the mighty **[MEGA POTATO](https://modrinth.com/mod/mega-potato)** mod.
 
  
 
