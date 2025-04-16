@@ -7,12 +7,8 @@
     "aaa"
   ],
   "key": {
-    "a": {
-      "item": "mega_potato:fat_potato"
-    },
-    "b": {
-      "item": "mega_potato:potato_squeezer"
-    }
+    "a": "mega_potato:fat_potato",
+    "b": "mega_potato:potato_squeezer"
   },
   "result": {
     "id": "mega_potato:stretched_potato"

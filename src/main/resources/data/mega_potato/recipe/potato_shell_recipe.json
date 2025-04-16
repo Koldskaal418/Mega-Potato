@@ -7,15 +7,9 @@
     "aba"
   ],
   "key": {
-    "a": {
-      "item": "minecraft:leather"
-    },
-    "b": {
-      "item": "minecraft:fern"
-    },
-    "c": {
-      "item": "mega_potato:stretched_potato"
-    }
+    "a": "minecraft:leather",
+    "b": "minecraft:fern",
+    "c": "mega_potato:stretched_potato"
   },
   "result": {
     "id": "mega_potato:potato_shell"

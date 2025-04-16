@@ -7,9 +7,7 @@
     "aaa"
   ],
   "key": {
-    "a": {
-      "item": "mega_potato:big_potato"
-    }
+    "a": "mega_potato:big_potato"
   },
   "result": {
     "id": "mega_potato:massive_potato"

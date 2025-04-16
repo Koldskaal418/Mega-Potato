@@ -1,16 +1,14 @@
 {
   "type": "minecraft:crafting_shaped",
   "category": "misc",
+  "key": {
+    "a": "minecraft:potato"
+  },
   "pattern": [
     "aaa",
     "a a",
     "aaa"
   ],
-  "key": {
-    "a": {
-      "item": "minecraft:potato"
-    }
-  },
   "result": {
     "id": "mega_potato:big_potato"
   }

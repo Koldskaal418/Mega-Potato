@@ -7,9 +7,7 @@
     "aaa"
   ],
   "key": {
-    "a": {
-      "item": "mega_potato:potato_ash"
-    }
+    "a": "mega_potato:potato_ash"
   },
   "result": {
     "id": "mega_potato:potato_ash_block"

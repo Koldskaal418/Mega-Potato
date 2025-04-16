@@ -6,12 +6,8 @@
     "bbb"
   ],
   "key": {
-    "a": {
-      "item": "mega_potato:potato_hammer"
-    },
-    "b": {
-      "item": "mega_potato:massive_potato"
-    }
+    "a": "mega_potato:potato_hammer",
+    "b": "mega_potato:massive_potato"
   },
   "result": {
     "id": "mega_potato:potato_dust",

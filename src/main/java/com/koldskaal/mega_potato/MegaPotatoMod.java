@@ -3,7 +3,6 @@ package com.koldskaal.mega_potato;
 import com.koldskaal.mega_potato.block.BlockOfPotatoAsh;
 import com.koldskaal.mega_potato.core.init.ItemInit;
 import com.koldskaal.mega_potato.creative_tabs.MegaPotatoCreativeTab;
-import com.koldskaal.mega_potato.data.DataGenerators;
 import com.mojang.logging.LogUtils;
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.fml.common.Mod;
@@ -19,7 +18,7 @@ public class MegaPotatoMod {
     // The constructor for the mod class is the first code that is run when your mod is loaded.
     // FML will recognize some parameter types like IEventBus or ModContainer and pass them in automatically.
     public MegaPotatoMod(IEventBus modEventBus) {
-        modEventBus.addListener(DataGenerators::gatherData);
+        // modEventBus.addListener(DataGenerators::gatherData);
 
         ItemInit.ITEMS.register(modEventBus);
         BlockOfPotatoAsh.BLOCKS.register(modEventBus);

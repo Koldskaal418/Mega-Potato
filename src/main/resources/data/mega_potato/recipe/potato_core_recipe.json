@@ -7,15 +7,9 @@
     "aba"
   ],
   "key": {
-    "a": {
-      "item": "minecraft:golden_apple"
-    },
-    "b": {
-      "item": "mega_potato:potato_ash"
-    },
-    "c": {
-      "item": "mega_potato:hammered_potato"
-    }
+    "a": "minecraft:golden_apple",
+    "b": "mega_potato:potato_ash",
+    "c": "mega_potato:hammered_potato"
   },
   "result": {
     "id": "mega_potato:potato_core"

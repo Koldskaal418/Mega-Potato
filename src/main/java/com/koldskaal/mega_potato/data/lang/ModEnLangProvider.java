@@ -56,7 +56,7 @@ public class ModEnLangProvider extends LanguageProvider {
         add("advancements.skinny_potato.desc", "Use your weird Potato tool to make the Potatoes lose weight");
         add("advancements.potato_core.title", "The Inner Potato");
         add("advancements.potato_core.desc", "Craft the purest of all Potatoes");
-        add("advancements.potato_ash.title", "Burn!");
-        add("advancements.potato_ash.desc", "Set flames to one of your larger Potatoes");
+        add("advancements.potato_ash.json.title", "Burn!");
+        add("advancements.potato_ash.json.desc", "Set flames to one of your larger Potatoes");
     }
 }

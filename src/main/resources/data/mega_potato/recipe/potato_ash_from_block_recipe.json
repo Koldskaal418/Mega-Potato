@@ -2,9 +2,7 @@
   "type": "minecraft:crafting_shapeless",
   "category": "misc",
   "ingredients": [
-    {
-      "item": "mega_potato:potato_ash_block"
-    }
+    "mega_potato:potato_ash_block"
   ],
   "result": {
     "id": "mega_potato:potato_ash",
