@@ -5,6 +5,7 @@ import net.minecraft.core.registries.Registries;
 import net.minecraft.resources.ResourceKey;
 import net.minecraft.world.item.BlockItem;
 import net.minecraft.world.level.block.FallingBlock;
+import net.minecraft.world.level.block.SoundType;
 import net.minecraft.world.level.block.state.BlockBehaviour;
 import net.neoforged.neoforge.registries.DeferredBlock;
 import net.neoforged.neoforge.registries.DeferredItem;
@@ -22,6 +23,9 @@ public class BlockOfPotatoAsh {
             "potato_ash_block", registryName -> new FallingBlock(
                     BlockBehaviour.Properties.of()
                             .setId(ResourceKey.create(Registries.BLOCK, registryName))
+                            .ignitedByLava()
+                            .strength(0.25f, 0.1f)
+                            .sound(SoundType.SAND)
             ) {
                 @Override
                 protected MapCodec<? extends FallingBlock> codec() {
