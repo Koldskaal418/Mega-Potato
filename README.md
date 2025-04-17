@@ -1,10 +1,8 @@
 ![](https://i.imgur.com/wdx71ai.png)  
 
+#
 
- 
-# Mega Potato
-
-### Once upon a time I asked a friend: "Do you have any ideas for a mod?" And he replied: "potato... **MEGA POTATO**."
+### Welcome to the github page of the mighty **[MEGA POTATO](https://modrinth.com/mod/mega-potato)** mod.
 
  
 
@@ -24,13 +22,15 @@ __**What This Mod Includes:**__
 
 __**Modding Integrations**__
 
-- [Tips](https://www.curseforge.com/minecraft/mc-mods/tips) - Get useful(ish) tips about big potatoes
+- [Tips](https://modrinth.com/mod/tips) - Get useful(ish) tips about big potatoes
 - [Catalogue](https://www.curseforge.com/minecraft/mc-mods/catalogue) - Fancy!
-
-> The following mods are not currently integrated as they have not yet updated to Neoforge
-- [Create](https://www.curseforge.com/minecraft/mc-mods/create) - Use the potato cannon with even bigger potatoes
 - [Eating Animation](https://www.curseforge.com/minecraft/mc-mods/eating-animation-forge) - Yummy!
+
+> The following mods are not integrated into the newest versions as they haven't updated to Neoforge yet.
+> [Create](https://modrinth.com/mod/create) - Use the potato cannon with even bigger potatoes
+
+
 
  
 
-This is the **NEOFORGE** version for fabric go [here](https://www.curseforge.com/minecraft/mc-mods/mega-potato-fabric "Fabric Page"), the Forge version has been discontinued.
+> *Note: Forge version has been discontinued.
